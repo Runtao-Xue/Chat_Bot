@@ -44,7 +44,7 @@ Bernhard is green.
 1. Clone the repo
 
    ```
-   https://github.com/Runtao-Xue/Chat_Bot
+   git clone https://github.com/Runtao-Xue/Chat_Bot
    ```
 
 2. Install packages

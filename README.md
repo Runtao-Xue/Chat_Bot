@@ -23,19 +23,19 @@ We use the **End-to-End Memory Neural Network Model**, which can be seen as an e
  We use bAbI data from Facebook. The total data is about 5.6mb, within 20 tasks. And the Longest sentence length is 12 words, the longest story length is 228 words.
 
 ## Running Sample
-Sam walks into the kitchen.\\
-Sam picks up an apple.\\
-Sam walks in to the bedroom.\\
-Sam drops the apple.\\
-*Q: Where is the apple?*\\
-*A: Bedroom.*
-\\
-Brian is a lion.\\
-Julius is a lion.\\
-Julius is white.\\
-Bernhard is green.\\
-*Q:What color is Brian?*\\
-*A: White.*
+Sam walks into the kitchen.  
+Sam picks up an apple.  
+Sam walks in to the bedroom.  
+Sam drops the apple.  
+*Q: Where is the apple?*  
+*A: Bedroom.*  
+  
+Brian is a lion.  
+Julius is a lion.  
+Julius is white.  
+Bernhard is green.  
+*Q:What color is Brian?*  
+*A: White.*  
 
 ## Getting Started
 

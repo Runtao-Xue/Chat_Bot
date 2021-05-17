@@ -34,7 +34,7 @@ Brian is a lion.
 Julius is a lion.  
 Julius is white.  
 Bernhard is green.  
-*Q:What color is Brian?*  
+*Q: What color is Brian?*  
 *A: White.*  
 
 ## Getting Started
